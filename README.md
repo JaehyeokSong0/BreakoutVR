@@ -1,5 +1,4 @@
-# BreakoutVR
-
+# BreakoutVR (On Remake)
 ## Environment
 - Unity 2021.3.10f1
 - XR Interaction Toolkit 2.0.4
